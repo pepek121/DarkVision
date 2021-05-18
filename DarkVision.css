@@ -1,6 +1,6 @@
 
 @charset "UTF-8";
-/*! DarkVision v0.1  */
+/*! DarkVision v0.2  */
 
 :root {
   --main-color: #2780e6;
@@ -273,7 +273,7 @@ textarea,
   text-shadow: 0 0 3px #000;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
-  content: "v0.1";
+  content: "v0.2";
   color: rgba(255, 255, 255, 0.3);
   font-family: var(--code-font);
   font-size: 10px;
@@ -1230,7 +1230,7 @@ textarea,
   transform: translateX(50%);
 }
 .container-3baos1:after {
-  content: "v0.1";
+  content: "v0.2";
   left: 50%;
   text-align: left;
   opacity: 0;
