@@ -273,7 +273,7 @@ textarea,
   text-shadow: 0 0 3px #000;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
-  content: "v0.2";
+  content: "v0.1";
   color: rgba(255, 255, 255, 0.3);
   font-family: var(--code-font);
   font-size: 10px;
@@ -1230,7 +1230,7 @@ textarea,
   transform: translateX(50%);
 }
 .container-3baos1:after {
-  content: "v0.2";
+  content: "v0.1";
   left: 50%;
   text-align: left;
   opacity: 0;
@@ -3443,132 +3443,12 @@ code {
   font-size: 10px;
   padding: 0 5px;
 }
-.contents-2mQqc9 > img[src*="194151269399527425"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Admin";
+
+
+.contents-2mQqc9 > img[src*="348201494173974530"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "Admin Ekipa A24";
 }
-.contents-2mQqc9 > img[src*="144881947557101568"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Admin";
-}
-.contents-2mQqc9 > img[src*="332394843743584256"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Team";
-}
-.contents-2mQqc9 > img[src*="240437190339854337"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Team";
-}
-.contents-2mQqc9 > img[src*="126652966265421824"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Team";
-}
-.contents-2mQqc9 > img[src*="335677038830682112"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Contributor";
-}
-.contents-2mQqc9 > img[src*="195270435015884800"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Contributor";
-}
-.contents-2mQqc9 > img[src*="236579127090610176"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Contributor";
-}
-.contents-2mQqc9 > img[src*="97797564866236416"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Contributor";
-}
-.contents-2mQqc9 > img[src*="150750980097441792"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Contributor";
-}
-.contents-2mQqc9 > img[src*="213067580531933196"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Contributor";
-}
-.contents-2mQqc9 > img[src*="262989909411758080"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="168551219135119361"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="241500427105992704"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="151995147150819328"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="157699533134888961"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="157492606752784384"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="174525242939670528"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="78890013378486272"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="213263668312408066"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="152431535914614785"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="112619227466182656"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="297873043265552384"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="258031697646321666"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="109933711142719488"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="251260900252712962"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="199184208319610880"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="122731339890950145"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="436228721033216009"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="66214870705516544"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="172426681800196096"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="158311402677731328"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="284122164582416385"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="107965218868457472"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="393900343135830016"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="183795147236966412"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="245133485688225793"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Donator";
-}
-.contents-2mQqc9 > img[src*="538745942493495298"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Translator";
-}
-.contents-2mQqc9 > img[src*="265627010733178892"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "CV Guide Maker";
-}
-.contents-2mQqc9 > img[src*="309976820109803520"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "Former CV Team";
-}
-.contents-2mQqc9 > img[src*="148359099782791168"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "Team Hydra";
-}
-.contents-2mQqc9 > img[src*="206212600596398080"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
-  content: "Team Hydra";
-}
+
 
 .replyLink-nOQEG8 + .username-1A8OIy::after {
   display: none;
