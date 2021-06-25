@@ -3431,7 +3431,7 @@ code {
   background-color: var(--background-overlay);
 }
 
-/* TAGGED USERS */
+/* OZNACZONYCH UŻYTKOWNIKÓW */
 .contents-2mQqc9 > img ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
   content: none;
   color: currentcolor;
@@ -3453,6 +3453,9 @@ code {
   content: "Ekipa A24";
 }
 
+.contents-2mQqc9 > img[src*="530092681993388042"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "Ekipa A24";
+}
 
 .replyLink-nOQEG8 + .username-1A8OIy::after {
   display: none;
