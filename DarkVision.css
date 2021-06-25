@@ -3449,6 +3449,10 @@ code {
   content: "Admin Ekipa A24";
 }
 
+.contents-2mQqc9 > img[src*="278894895169667072"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "Ekipa A24";
+}
+
 
 .replyLink-nOQEG8 + .username-1A8OIy::after {
   display: none;
