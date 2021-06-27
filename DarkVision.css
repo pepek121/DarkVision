@@ -3462,6 +3462,10 @@ code {
   content: "Ekipa A24";
 }
 
+.contents-2mQqc9 > img[src*="377900390676561922"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "Ekipa A24";
+}
+
 .replyLink-nOQEG8 + .username-1A8OIy::after {
   display: none;
 }
